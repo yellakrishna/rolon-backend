@@ -74,8 +74,8 @@
 import jwt from "jsonwebtoken";
 
 // Only allow this email & password
-const PRIVATE_EMAIL = "yella11@gmail.com";
-const PRIVATE_PASSWORD = "7207709284";
+const PRIVATE_EMAIL = "rolonseals@gmail.com";
+const PRIVATE_PASSWORD = "rolon@9966";
 
 // Create JWT token
 const createToken = (email) => {
