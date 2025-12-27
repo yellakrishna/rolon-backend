@@ -24,7 +24,7 @@
 import jwt from "jsonwebtoken";
 
 // Private allowed email
-const PRIVATE_EMAIL = "rolonseals9966@gmail.com";
+const PRIVATE_EMAIL = "yella11@gmail.com";
 
  const authMiddleware = (req, res, next) => {
   // Get token from headers

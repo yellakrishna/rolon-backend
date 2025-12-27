@@ -27,11 +27,10 @@ connectDB();
 
 
 const allowedOrigins = [
-//  "https://frontend-food-ai.vercel.app",
-// "https://admin-food-ai.vercel.app",
+ "https://rolon-frontend.vercel.app",
+"https://rolon-admin.vercel.app",
 
-"http://localhost:5173",
-"http://localhost:5174"
+
 ];
 
 app.use(cors({
